@@ -2,7 +2,7 @@
 
 A Cloudflare Worker-based application for managing and exploring your Cloudflare KV namespaces.
 
-![Cloudflare KV Manager Screenshot](https://via.placeholder.com/800x450.png?text=Cloudflare+KV+Manager)
+![Cloudflare KV Manager Screenshot](cfkvv.png)
 
 ## Features
 
