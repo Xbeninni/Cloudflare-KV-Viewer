@@ -19,7 +19,7 @@ A Cloudflare Worker-based application for managing and exploring your Cloudflare
 1. **Clone this repository or copy the Worker code:**
 
 ```bash
-git clone https://github.com/yourusername/cloudflare-kv-manager.git
+git clone https://github.com/Xbeninni/Cloudflare-KV-Viewer.git
 ```
 
 2. **Deploy to Cloudflare Workers:**
